@@ -1,0 +1,57 @@
+.container {
+    width: 1670px;
+    height: 1550px;
+    background-image: url(https://sun9-67.userapi.com/s/v1/ig2/Ok9w0E9UNglrLFCBjQd_koApskpcUM57YMdCTJo13t9DdF0BojpRky4PIbpj-VnW3kjP_ygbVNWxSnMa3yLATC4J.jpg?size=1280x1280&quality=96&type=album);
+    background-size: 1670px 1700px;    
+}
+
+.photo {
+    width: 300px;
+    display: inline-block;
+}
+
+.main-list {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;   
+    width: 500px;
+    line-height: 30px;   
+    background-size: 800px;
+    margin-left: 30px;
+} 
+
+.liright {
+    margin-left: 100px;
+}
+
+.licode {
+    display: flex;
+    position: relative;
+    margin-left: 1160px;
+    margin-top: -665px;
+    color:rgb(6, 87, 87)
+}
+
+h1 {
+    font-size: 100px;
+    margin-top: 120px;
+    margin-left: 240px;
+    color:rgb(211, 122, 7);
+    text-shadow: 0 5px 5x yellowgreen;
+}
+
+h2 {
+    color:rgb(3, 99, 0);
+    font-size: 30px;
+    margin-left: 1530px;
+    margin-top: -145px;
+}
+
+em {
+    color:rgb(10, 119, 119)
+}
+
+strong {
+    font-size: 35px;
+    font-style: italic;
+}
