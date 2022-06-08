@@ -28,7 +28,6 @@
         .liright {
             margin-left: 100px;
         }
-    
 
 MY CV
 =====
