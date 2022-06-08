@@ -1,4 +1,8 @@
-   CV vonkowill    
+MY CV
+=====
+
+vonkowill
+---------
 
 1.  _Name:_ **Vonko William**
 2.  _Contacts:_ _+375296768009_ Viber Telegramm ;  
@@ -28,9 +32,3 @@
         .liright {
             margin-left: 100px;
         }
-
-MY CV
-=====
-
-vonkowill
----------
