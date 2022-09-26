@@ -1,1 +1,1 @@
-https://vonkowill.github.io/rsschool-cv/ddd
+https://vonkowill.github.io/rsschool-cv/
